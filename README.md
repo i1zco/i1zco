@@ -32,7 +32,7 @@ Hello, my name is **Rawad Raool**.
 
 **PHP backend && Plugins**
 
-Security research and [source code review](https://github.com/i1zco/wishlist-member-vuln-analysis) of PHP backends and plugins to identify vulnerabilities.
+Security research, [source code review](https://github.com/i1zco/wishlist-member-vuln-analysis), and [proof-of-concept](https://github.com/i1zco/wishlist-poc) development for PHP plugin vulnerabilities.
 
 **Application Layer Defense (WAF)**
 
