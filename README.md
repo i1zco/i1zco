@@ -12,7 +12,7 @@ Hello, my name is **Rawad Raool**.
 ---
 
 ### Networking & Defense Skills
-- **Network Security Lab:** Deployed a **pfSense** firewall to segment local networks using **VLANs**.
+- **Network Security Lab:** Deployed a [**pfSense firewall**](https://github.com/i1zco/Home_Lab/blob/main/Networking/setup_firewall.md) to segment local networks using **VLANs**.
 - **SIEM Integration:** Configured **Syslog** to export firewall logs to **Splunk** for real-time traffic analysis.
 - **Traffic Routing:** Implemented **VPN Tunnels** via **NAT** policies to secure sensitive devices.
 - **Intrusion Prevention:** Fine-tuned **IPS/IDS** rules to detect and block malicious signatures.
