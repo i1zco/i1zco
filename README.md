@@ -5,17 +5,82 @@
 ### <div align="center">Cybersecurity Student & Aspiring Security Engineer</div> 
 
 ### About Me
+
 Hello, my name is **Rawad Raool**.
 - **Education:** Cybersecurity Student | University of Aden.
-- **Goal:** Building resilient, secure infrastructures and auditing code for vulnerabilities.
+
+
+- **Goal:** Learning to build resilient and secure infrastructures and auditing code for vulnerabilities.
 
 ---
 
 ### Networking & Defense Skills
 - **Network Security Lab:** Deployed a [**pfSense firewall**](https://github.com/i1zco/Home_Lab/blob/main/Networking/setup_firewall.md) to segment local networks using **VLANs**.
+
+  
 - **SIEM Integration:** Configured **Syslog** to export firewall logs to **Splunk** for real-time traffic analysis.
+
+  
 - **Traffic Routing:** Implemented **VPN Tunnels** via **NAT** policies to secure sensitive devices.
+
+  
 - **Intrusion Prevention:** Fine-tuned **IPS/IDS** rules to detect and block malicious signatures.
+
+---
+
+## Web Security
+
+**PHP backend && Plugins**
+
+Research and security evaluation of the integrity of the code and identification of its vulnerabilities.
+
+**Application Layer Defense (WAF)**
+
+To provide multi-layered security, I focus on implementing Web Application Firewalls (WAF) to filter and monitor HTTP traffic between a web application and the Internet.
+
+
+# 1. Edge Security (Cloudflare CDN)
+- DDoS Mitigation: Using Cloudflare to        absorb large-scale volumetric attacks       before they reach my origin server
+
+   
+- Global CDN: Speeding up content delivery     while hiding the origin IP address of       the server behind the pfSense gateway.
+
+
+- Custom Firewall Rules: Blocking traffic      based on Country (Geo-blocking) or           specific User-Agents.
+
+
+# 2. Local Inspection (OWASP ModSecurity)
+
+  - Deep Packet Inspection: Implementing         ModSecurity as an engine for                Apache/Nginx to act as a host-based WAF
+    
+  
+  - OWASP Core Rule Set (CRS): Utilizing         pre-configured rules to protect             against the "OWASP Top 10"                  vulnerabilities, such as:
+    
+          • SQL Injection (SQLi)
+    
+          • Cross-Site Scripting (XSS)
+    
+          • Local File Inclusion (LFI)
+    
+          • PHP Object Injection (POI)
+    
+
+
+
+**Apache or Ngnix web server**
+
+protect against weak configurations, and implement access control and permissions policies.
+
+
+
+
+
+For vulnerability research, I follow the [OWASP Top 10](https://owasp.org/www-project-top-ten/) standards to identify and mitigate PHP security risks.
+
+
+
+
+
 
 ---
 
@@ -53,6 +118,7 @@ src="https://cdn.simpleicons.org/pfsense/212121" alt="pfSense" height="30" />
 
 
 <br/>
+
 
 ### GitHub Stats
 <p align="center">
