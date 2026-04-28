@@ -21,16 +21,15 @@ Hello, my name is **Rawad Raool**.
 - **SIEM Integration:** Configured **Syslog** to export firewall logs to **Splunk** for real-time traffic analysis.
 
   
-- **Traffic Routing:** Implemented **VPN Tunnels** via **NAT** policies to secure sensitive devices.
+- **Traffic Routing:** Implemented **VPN tunnels** and **NAT policies** to secure sensitive devices.
 
   
-- **Intrusion Prevention:** Fine-tuned **IPS/IDS** rules to detect and block malicious signatures.
-
+- **Intrusion Prevention:** Fine-tuned **IPS/IDS** (Suricata/Snort) rules to detect malicious signatures.
 ---
 
 ## Web Security
 
-**PHP backend && Plugins**
+**PHP backends && Plugins**
 
 Security research, [source code review](https://github.com/i1zco/wishlist-member-vuln-analysis), and [proof-of-concept](https://github.com/i1zco/wishlist-poc) development for PHP plugin vulnerabilities.
 
