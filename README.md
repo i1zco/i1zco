@@ -31,7 +31,7 @@
 * **[Zomeye Recon](https://github.com/i1zco) — OSINT Reconnaissance Framework**
   Developed a Python-based intelligence tool leveraging third-party APIs to bypass Cloudflare protections and uncover hidden origin infrastructure and backend IP addresses tied to target domains.
 
-* **Automated SecOps Pipeline (Home SOC) — End-to-End Environment**
+* **[Automated SecOps Pipeline (Home SOC) — End-to-End Environment](https://github.com/i1zco/dev_lab/blob/main/automated_secops.md)**
   Architected a Security Operations Center environment. Deployed Splunk SIEM for centralized log aggregation, integrated Shuffle and n8n SOAR platforms to automate incident-response workflows, and configured Wazuh EDR for host-based threat visibility.
 
 ---
