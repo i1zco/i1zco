@@ -62,8 +62,7 @@ I implement robust defense-in-depth and routing security controls across enterpr
     <tr>
       <td align="center" valign="top" width="33%" style="border: none; padding: 10px;">
         <h4 style="font-size: 15px; margin-bottom: 10px;">Development & Scripting</h4>
-        <img src="https://skillicons.dev/icons?i=py,fastapi,php" alt="Backend" /><br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="Frontend" />
+        <img src="https://skillicons.dev/icons?i=py,fastapi,php" alt="Backend" /><br><b>
       </td>
       <td align="center" valign="top" width="33%" style="border: none; padding: 10px;">
         <h4 style="font-size: 15px; margin-bottom: 10px;">Security & Infrastructure</h4>
